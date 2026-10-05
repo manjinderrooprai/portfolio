@@ -721,6 +721,7 @@ p { color: var(--text-2); font-size: 1.0625rem; line-height: 1.8; }
 /* Scroll indicator */
 .hero-section__scroll-indicator {
   position: absolute;
+  display: none; /* Hide on mobile to prevent overlap with buttons */
   bottom: 32px; left: 50%;
   transform: translateX(-50%);
   display: flex; flex-direction: column; align-items: center; gap: 8px;
