@@ -721,7 +721,6 @@ p { color: var(--text-2); font-size: 1.0625rem; line-height: 1.8; }
 /* Scroll indicator */
 .hero-section__scroll-indicator {
   position: absolute;
-  display: none; /* Hide on mobile to prevent overlap with buttons */
   bottom: 32px; left: 50%;
   transform: translateX(-50%);
   display: flex; flex-direction: column; align-items: center; gap: 8px;
@@ -1325,6 +1324,11 @@ p { color: var(--text-2); font-size: 1.0625rem; line-height: 1.8; }
    ================================================================ */
 @media (max-width:768px) {
   :root { --section-py: 64px; }
+  
+  /* Hide scroll indicator on mobile to prevent overlap with buttons */
+  .hero-section__scroll-indicator {
+    display: none !important;
+  }
   .container { padding:0 16px; }
 
   .hero-section__headline { font-size:clamp(1.8rem,7vw,2.8rem); }
