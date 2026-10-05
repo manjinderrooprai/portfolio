@@ -96,7 +96,7 @@
 
     new Typed('#typed-tagline', {
       strings: [
-        'Senior Technologist',
+        'Platform Engineer',
         'Backend & Platform Engineer',
         'Cloud & DevOps Specialist',
         'Generative AI Architect',
