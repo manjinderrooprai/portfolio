@@ -97,32 +97,6 @@ Portfolio/
 
 ---
 
-## 🚀 Deployment
-
-### GitHub Pages (current)
-
-1. Push to `main` branch
-2. Go to **Settings → Pages**
-3. Set source to **Deploy from a branch** → `main` → `/docs`
-4. Site is live at `https://manjinderrooprai.github.io/portfolio/`
-
-### Local Preview
-
-```bash
-# Option 1: Python
-python3 -m http.server 8080 --directory docs
-
-# Option 2: Node.js (npx serve)
-npx serve docs
-
-# Option 3: VS Code Live Server
-# Right-click docs/index.html → Open with Live Server
-```
-
-Then open [http://localhost:8080](http://localhost:8080).
-
----
-
 ## 🎨 Customisation
 
 ### Update resume
