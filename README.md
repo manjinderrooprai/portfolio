@@ -12,7 +12,7 @@ A futuristic, single-page portfolio site built with pure HTML, CSS, and JavaScri
 
 ## 🔗 Live Site
 
-**[manjinderrooprai.github.io/portfolio/](https://manjinderrooprai.github.io/portfolio/)**
+**[manjinderrooprai.in](https://manjinderrooprai.in)**
 
 ---
 
@@ -151,7 +151,7 @@ See [`CLAUDE.md`](CLAUDE.md) for full step-by-step instructions.
 
 | Platform | URL |
 |---|---|
-| Portfolio | https://manjinderrooprai.github.io/portfolio/ |
+| Portfolio | https://manjinderrooprai.in |
 | LinkedIn | https://linkedin.com/in/manjinder-rooprai-883110b9 |
 | GitHub | https://github.com/manjinderrooprai |
 | Gravatar | https://gravatar.com/manjinderrooprai |
