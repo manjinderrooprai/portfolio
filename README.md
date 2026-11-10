@@ -126,7 +126,7 @@ See [`CLAUDE.md`](CLAUDE.md) for full step-by-step instructions.
 | Platform | URL |
 |---|---|
 | Portfolio | https://manjinderrooprai.in |
-| LinkedIn | https://linkedin.com/in/manjinder-rooprai-883110b9 |
+| LinkedIn | https://www.linkedin.com/in/manjinder-singh-rooprai-883110b9/ |
 | GitHub | https://github.com/manjinderrooprai |
 | Gravatar | https://gravatar.com/manjinderrooprai |
 | Digital Art | https://manjinderrooprai.wordpress.com/category/manjinderrooprai/digital-creator/ |

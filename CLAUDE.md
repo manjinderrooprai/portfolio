@@ -11,7 +11,7 @@ This file documents the structure, conventions, and key details of this portfoli
 **Location:** Bangalore, India  
 **Email:** rooprai0044@gmail.com  
 **GitHub:** https://github.com/manjinderrooprai  
-**LinkedIn:** https://linkedin.com/in/manjinder-rooprai-883110b9  
+**LinkedIn:** https://www.linkedin.com/in/manjinder-singh-rooprai-883110b9/  
 **Gravatar:** https://gravatar.com/manjinderrooprai  
 **WordPress Blog:** https://manjinderrooprai.wordpress.com  
 
@@ -106,9 +106,10 @@ Order (left → right):
 
 | Destination | URL |
 |---|---|
-| LinkedIn | `https://linkedin.com/in/manjinder-rooprai-883110b9` |
+| LinkedIn | `https://www.linkedin.com/in/manjinder-singh-rooprai-883110b9/` |
 | GitHub | `https://github.com/manjinderrooprai` |
 | Gravatar | `https://gravatar.com/manjinderrooprai` |
+| Credly | `https://www.credly.com/users/manjinderrooprai` |
 | Digital Art | `https://manjinderrooprai.wordpress.com/category/manjinderrooprai/digital-creator/` |
 | Verses/Poetry | `https://manjinderrooprai.wordpress.com/category/manjinderrooprai/verses/` |
 | Email | `mailto:rooprai0044@gmail.com` |
